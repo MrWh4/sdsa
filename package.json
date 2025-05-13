@@ -1,0 +1,17 @@
+{
+    "name": "malumot-tizimi",
+    "version": "1.0.0",
+    "description": "Ma'lumot kiritish tizimi",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "bcrypt": "^6.0.0",
+        "ejs": "^3.1.10",
+        "express": "^4.21.2",
+        "express-session": "^1.18.1",
+        "multer": "^1.4.5-lts.1",
+        "uuid": "^9.0.1"
+    }
+}
